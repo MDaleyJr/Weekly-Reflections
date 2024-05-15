@@ -1,3 +1,4 @@
+# Week 4
 This week we learned about recon. We did an excercise on a random buisness located in a random location and did a soft recon. It was exercise only and 100% soft recon.
 we discovered some tools of the trade and worked on a total view not just a narrow scope. Don't get locked in on the cyber portion. Look at the physical address. 
 Surrounding buisness...traffic, cameras, foot traffic...look at everything. It was a good week with a a fun activity. THere is so much to learn and I'm loving it....whenever I do
