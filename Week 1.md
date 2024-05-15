@@ -1,4 +1,4 @@
-#Week 1
+# Week 1
 
 The first week of the Cybervets program was better than I anticipated. 
 I’m a part of Cohort Bravo. Unfortunately one of members had his skillbridge yanked last minute so we are a team of 2. 
