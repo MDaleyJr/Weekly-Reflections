@@ -1,4 +1,4 @@
-Week 2
+# Week 2
 
 Another good week of learning new things. We worked on some more PicoCTF. 
 The more challenging tasks are proving difficult but I’m enjoying the challenge. 
